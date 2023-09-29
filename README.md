@@ -1,2 +1,2 @@
 # Introduction
-A progress of me learing Data science
+Starting a new journey of becoming a Python Software Dev.
